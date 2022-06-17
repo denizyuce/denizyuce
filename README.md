@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm deniz</h1>
-<h3 align="center">My name's Mazlum Deniz Yüce.I'm studying mechatronics engineering at Kocaeli University.My interests are embedded software and hardware design. For about 2 years, I worked on projects such as vehicle control system and battery management system in the efficiency challenge races organized by Teknofest.In addition, I still continue to work on these projects individually.</h3>
+<h3 align="center">My name's Mazlum Deniz Yüce.I'm studying mechatronics engineering at Kocaeli University.My interests are embedded software and hardware design. For about 3 years, I worked on projects such as vehicle control system and battery management system in the efficiency challenge races organized by Teknofest.In addition, I still continue to work on these projects individually.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizyuce&label=Profile%20views&color=0e75b6&style=flat" alt="denizyuce" /> </p>
 
